@@ -1,0 +1,16 @@
+main
+	south
+		traffic
+			Div_8X8_S
+	west
+		traffic
+			Div_8X8_S
+	automatic
+		south
+			traffic
+				Div_8X8_S
+		west
+			traffic
+				Div_8X8_S
+		traffic
+			Div_8X8_S
